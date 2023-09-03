@@ -1,3 +1,4 @@
+![logo](https://github.com/EdinamUkpabio/Speak2Script/blob/main/interface%20(2).jpg) 
 # Speak2Script
 
 Celebrate the power of voice with our cutting-edge software that effortlessly transforms spoken words into written text, preserving your thoughts and conversations in a convenient and easily accessible .txt format. 
