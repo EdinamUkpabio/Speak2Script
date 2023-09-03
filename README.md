@@ -1,4 +1,12 @@
 ![logo](https://github.com/EdinamUkpabio/Speak2Script/blob/main/interface%20(2).jpg) 
+
+![GitHub stars](https://img.shields.io/github/stars/EdinamUkpabio/Speak2Script?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/EdinamUkpabio/Speak2Script?style=social)
+![GitHub forks](https://img.shields.io/github/forks/EdinamUkpabio/Speak2Script?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/EdinamUkpabio/Speak2Script)
+![GitHub contributors](https://img.shields.io/github/contributors/EdinamUkpabio/Speak2Script)
+![GitHub code size](https://img.shields.io/github/languages/code-size/EdinamUkpabio/Speak2Script)
+
 # Speak2Script
 
 Celebrate the power of voice with our cutting-edge software that effortlessly transforms spoken words into written text, preserving your thoughts and conversations in a convenient and easily accessible .txt format. 
